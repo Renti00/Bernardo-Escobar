@@ -1,0 +1,42 @@
+body {
+  background-color: white;
+  color: black;
+}
+h1 {
+  background-color: darkslategray;
+  font-family: Times;
+  font-size: 50px;
+  text-align: center;
+}
+h2 {
+  font-family: Times;
+  font-size: 25px;
+  text-align: center;
+}
+h3 {
+  font-family: Times;
+  font-size: 25px;
+  text-align: center;
+}
+h4 {
+  font-family: Times;
+  font-size: 25px;
+  text-align: center;
+}
+h5 {
+  font-family: Times;
+  font-size: 17px;
+  text-align: center;
+}
+p {
+  font-family: Times;
+  text-align: justify;
+}
+img:hover {
+  transition: transform 2s;
+  transform: scale(1.2);
+}
+table:hover {
+  transition: transform 2s;
+  transform: scale(1.2);
+}
